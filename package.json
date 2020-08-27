@@ -1,0 +1,12 @@
+{
+  "name": "yarn_ma2",
+  "version": "1.0.0",
+  "description": "Task 8 for module assignment in module 2 of workflow 2 in frontend dev studies",
+  "main": "index.js",
+  "repository": "https://github.com/Hundset/yarn_ma2_workflow2.git",
+  "author": "Robin S Bartlett Larsen <hundset@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
